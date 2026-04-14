@@ -15,4 +15,4 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 Sensör verilerini kullanarak insan aktivitelerini doğru şekilde sınıflandırmak.  
 
 ## 📈 Model Performansı  
-Model, veri setindeki özellikleri analiz ederek test verileri üzerinde başarılı sınıflandırma sonuçları elde etmiştir. *(Accuracy, F1-score eklersen çok güçlü olur)*  
+Model, veri setindeki özellikleri analiz ederek test verileri üzerinde başarılı sınıflandırma sonuçları elde etmiştir. 
